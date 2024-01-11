@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 * Experiencia profesional:
     * Desarrollador de software, FullStack en RDS
     * Desarrollador de software, FullStack en IMPESA
+ 
+
 [![My Skills](https://skillicons.dev/icons?i=angular,nestjs,ts,js,html,css,cs)](https://skillicons.dev)
 
 # Educación
