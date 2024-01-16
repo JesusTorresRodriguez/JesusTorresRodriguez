@@ -19,14 +19,14 @@ Here are some ideas to get you started:
 * Nombre: Jesús Torres Rodríguez
 * Correo electrónico: JESUS.TORRESRODRIGUEZ@ucr.ac.cr
 * Ubicación: Cartago, Costa Rica
-* LinkedIn: [Tu perfil de LinkedIn]
+* LinkedIn: http://linkedin.com/in/jesús-torres-rodríguez-75a616210
 
 # Habilidades y experiencia
 
 * Lenguajes de programación: TypeScript, JavaScript, C#
 * Frameworks: Angular, Nestjs
 * Bases de datos: SQL, Spanner, Big Query, MonoDB
-* Herramientas: Git, GitHub, Docker
+* Herramientas: Git, GitHub, Docker, GCloud
 * Experiencia profesional:
     * Desarrollador de software, FullStack en RDS
     * Desarrollador de software, FullStack en IMPESA
