@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 * Lenguajes de programación: TypeScript, JavaScript, C#
 * Frameworks: Angular, Nestjs
-* Bases de datos: SQL, Spanner, Big Query, MonoDB
+* Bases de datos: SQL, Spanner, Big Query, MongoDB
 * Herramientas: Git, GitHub, Docker, GCloud
 * Experiencia profesional:
     * Desarrollador de software, FullStack en RDS
