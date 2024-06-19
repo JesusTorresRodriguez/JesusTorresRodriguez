@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # Información personal
 
 * Nombre: Jesús Torres Rodríguez
-* Correo electrónico: JESUS.TORRESRODRIGUEZ@ucr.ac.cr
+* Correo electrónico: felipe-torres23@hotmail.com
 * Ubicación: Cartago, Costa Rica
 * LinkedIn: http://linkedin.com/in/jesús-torres-rodríguez-75a616210
 
